@@ -4,8 +4,9 @@
   "description": "<h2>\r Backend de projeto de iniciação científica desenvolvido para o colégio Bom jesus.\r </h2>",
   "main": "index.js",
   "scripts": {
-   
-    "start": "nodemon index.js"
+  
+    "debug": "nodemon index.js",
+    "start": "node index.js"
   },
   "keywords": [],
   "author": "",
